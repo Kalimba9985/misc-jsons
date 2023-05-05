@@ -1,0 +1,10 @@
+{
+  "test": {
+      "launch": true,
+      "html": "<div>hello world</div>"
+  },
+  "vnd": {
+      "launch": false,
+      "html": "<div>hello vnd</div>"
+  }
+}
