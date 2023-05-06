@@ -7,6 +7,8 @@
       "launch": false,
       "html": "<div>hello vnd</div>",
       "launchAll": false,
-      "htmlAll": "<div>500 (Internal Server Error)</div>"
+      "htmlAll": "<div>500 (Internal Server Error)</div>",
+      "add: true,
+      "fullHtml": "<div>500 (Internal Server Error)</div>"
   }
 }
