@@ -6,7 +6,7 @@
   "vnd": {
       "launch": false,
       "html": "<div>hello vnd</div>",
-      "launchAll": true,
+      "launchAll": false,
       "htmlAll": "<div>500 (Internal Server Error)</div>"
   }
 }
